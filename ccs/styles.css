@@ -1,0 +1,31 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+header {
+    background-color: #af7676;
+    font-weight: bold;
+    font-style: italic;
+    padding: 15px; /* space around header */
+    
+}
+
+h1 {
+    color: aquamarine;
+    font-size: 2em;
+}
+
+main {
+ background-color: #5e5d5d;
+}
+
+tr {
+    color:lime;
+    background-color: #333;
+
+}
+
+.green-thing {
+    color:lime;
+    background-color: #333;
+}
