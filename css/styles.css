@@ -27,7 +27,7 @@ h1 {
 
 .profile-picture {
     width: 120px;
-    float: right; /* move right so text flows around it */
+    float: left; /* move right so text flows around it */
     margin-left: 20px;
 }
 
@@ -97,6 +97,7 @@ tr {
 
 .yellow-thing {
     color: yellow;
+}
 
 .blue-thing {
     color: blue;
@@ -104,5 +105,4 @@ tr {
 
 .green-thing {
     color:lime;
-    background-color: #333;
 }
