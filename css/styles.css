@@ -25,6 +25,12 @@ h1 {
     font-size: 2em;
 }
 
+.profile-picture {
+    width: 120px;
+    float: right; /* move right so text flows around it */
+    margin-left: 20px;
+}
+
 h2 {
     color: #333333;
 }
@@ -79,6 +85,21 @@ tr {
     color:lime;
     background-color: #333;
 
+}
+
+.red-thing {
+    color: red;
+}
+
+.orange-thing {
+    color: orange;
+}
+
+.yellow-thing {
+    color: yellow;
+
+.blue-thing {
+    color: blue;
 }
 
 .green-thing {
